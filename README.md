@@ -16,7 +16,7 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
     <tr>
     <td>
-          Less than 30&#xb0;
+      Less than 30&#xb0; or greater than 330&#xb0;
     </td>
     <td>
       In Irons
@@ -27,36 +27,40 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
   <tr>
     <td>
+       Between 30-45&#xb0;
     </td>
     <td>
-            Close Hauled (Right)
+       Close Hauled (Left))
     </td>
     <td>
     </td>
   </tr>
   <tr>
       <td>
+        Between 315-330&#xb0;
       </td>
       <td>
-              Close Hauled (Left)
+              Close Hauled (Right)
       </td>
       <td>
     </td>
   </tr>
   <tr>
       <td>
+          Between 45-60&#xb0;
       </td>
       <td>
-         Close Reach (Right)
+           Close Reach (Left)
       </td>
       <td>
     </td>
   </tr>
     <tr>
       <td>
+        Between 300-315&#xb0;
       </td>
       <td>
-            Close Reach (Left)
+        Close Reach (Right)
       </td>
       <td>
     </td>
