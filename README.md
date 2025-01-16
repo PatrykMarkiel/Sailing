@@ -16,13 +16,95 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
     <tr>
     <td>
-      wind from the front
+          wind from the front
     </td>
     <td>
       In Irons
     </td>
     <td>
       0 Nh/h
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+            Close Hauled (Right)
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+      <td>
+      </td>
+      <td>
+              Close Hauled (Left)
+      </td>
+      <td>
+    </td>
+  </tr>
+  <tr>
+      <td>
+      </td>
+      <td>
+         Close Reach (Right)
+      </td>
+      <td>
+    </td>
+  </tr>
+    <tr>
+      <td>
+      </td>
+      <td>
+            Close Reach (Left)
+      </td>
+      <td>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    </td>
+    <td>
+          Beam Reach(Right)
+    </td>
+    <td>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    </td>
+    <td>
+          Beam Reach(Left)
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+      Broad Reach (Right)
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+            Broad Reach (Left)
+    </td>
+    <td>
+    </td>
+  </tr>
+      <tr>
+    <td>
+      Wind from behind
+    </td>
+    <td>
+             Running
+    </td>
+    <td>
     </td>
   </tr>
 </table>
