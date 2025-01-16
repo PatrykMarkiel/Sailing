@@ -16,7 +16,7 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
     <tr>
     <td>
-          wind from the front
+          Less than 30&#xb0;
     </td>
     <td>
       In Irons
