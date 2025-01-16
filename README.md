@@ -67,18 +67,20 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
     <tr>
     <td>
+      90&#xb0;
     </td>
     <td>
-          Beam Reach(Right)
+          Beam Reach(Left)
     </td>
     <td>
     </td>
   </tr>
     <tr>
     <td>
+          180&#xb0;
     </td>
     <td>
-          Beam Reach(Left)
+        Beam Reach(Right)
     </td>
     <td>
     </td>
