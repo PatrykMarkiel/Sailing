@@ -35,34 +35,34 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
   <tr>
     <td>150° - 180°</td>
-    <td>Kurs z wiatrem (Running)</td>
+    <td>Running</td>
     <td></td>
   </tr>
   <tr>
     <td>180°</td>
-    <td>Kurs na burtę (Beam Reach, Lewo)</td>
+    <td>Beam Reach(left)</td>
     <td></td>
   </tr>
   <tr>
     <td>190° - 225°</td>
-    <td>Kurs na wiatr (Broad Reach, Lewo)</td>
+    <td>KBroad Reach(left)</td>
     <td></td>
   </tr>
   <tr>
     <td>225° - 270°</td>
-    <td>Kurs na burtę (Beam Reach, Lewo)</td>
+    <td>Beam Reach(left)</td>
     <td></td>
   </tr>
   <tr>
     <td>270° - 300°</td>
-    <td>Blisko kursu (Close Reach, Lewo)</td>
+    <td>Close Reach(left)</td>
     <td></td>
   </tr>
   <tr>
     <td>300° - 315°</td>
-    <td>Blisko kursu (Close Hauled, Lewo)</td>
+    <td>Close Hauled(left)</td>
     <td></td>
   </tr>
 </table>
-
+if wind blows between the angles of the sail setting speed reduces to half of maximum speed
 
