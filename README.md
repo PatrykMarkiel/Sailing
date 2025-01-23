@@ -15,7 +15,7 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
   <tr>
     <td>30° - 45°</td>
-    <td>Blisko kursu (Close Hauled, Prawo)</td>
+    <td>Close Hauled(right)</td>
     <td></td>
   </tr>
   <tr>
