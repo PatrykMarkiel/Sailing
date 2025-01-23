@@ -37,22 +37,32 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
   <tr>
       <td>
-        Between 315-330&#xb0;
-      </td>
-      <td>
-              Close Hauled (Right)
-      </td>
-      <td>
-    </td>
-  </tr>
-  <tr>
-      <td>
           Between 45-60&#xb0;
       </td>
       <td>
            Close Reach (Left)
       </td>
       <td>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      90&#xb0;
+    </td>
+    <td>
+          Beam Reach(Left)
+    </td>
+    <td>
+    </td>
+  </tr>
+    <tr>
+    <td>
+             100&#xb0;-135&#xb0; 
+    </td>
+    <td>
+      Broad Reach (Right)
+    </td>
+    <td>
     </td>
   </tr>
     <tr>
@@ -66,13 +76,13 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
     </td>
   </tr>
     <tr>
-    <td>
-      90&#xb0;
-    </td>
-    <td>
-          Beam Reach(Left)
-    </td>
-    <td>
+      <td>
+        Between 315-330&#xb0;
+      </td>
+      <td>
+              Close Hauled (Right)
+      </td>
+      <td>
     </td>
   </tr>
     <tr>
@@ -81,16 +91,6 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
     </td>
     <td>
         Beam Reach(Right)
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-             100&#xb0;-135&#xb0; 
-    </td>
-    <td>
-      Broad Reach (Right)
     </td>
     <td>
     </td>
