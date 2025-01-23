@@ -87,7 +87,7 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
   <tr>
     <td>
-             Less than 135&#xb0; or greater than 100&#xb0;
+             100&#xb0;-135&#xb0; 
     </td>
     <td>
       Broad Reach (Right)
@@ -97,7 +97,7 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
   </tr>
   <tr>
     <td>
-              Less than 225&#xb0; or greater than 190&#xb0;
+              190&#xb0;-225&#xb0;
     </td>
     <td>
             Broad Reach (Left)
