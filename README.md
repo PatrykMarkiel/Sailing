@@ -63,11 +63,6 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
     <td>Blisko kursu (Close Hauled, Lewo)</td>
     <td></td>
   </tr>
-  <tr>
-    <td>&lt; 30° lub &gt; 330°</td>
-    <td>W martwym punkcie (In Irons)</td>
-    <td></td>
-  </tr>
 </table>
 
 
