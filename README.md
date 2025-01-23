@@ -9,13 +9,23 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
     <th>Prędkość (Nm/h)</th>
   </tr>
   <tr>
-    <td>180°</td>
-    <td>Kurs na burtę (Beam Reach, Prawo)</td>
+    <td>&lt; 30° lub &gt; 330°</td>
+    <td>W martwym punkcie (In Irons)</td>
     <td></td>
   </tr>
   <tr>
-    <td>150° - 180°</td>
-    <td>Kurs z wiatrem (Running)</td>
+    <td>30° - 45°</td>
+    <td>Blisko kursu (Close Hauled, Prawo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>45° - 60°</td>
+    <td>Blisko kursu (Close Reach, Prawo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>90°</td>
+    <td>Kurs na burtę (Beam Reach, Prawo)</td>
     <td></td>
   </tr>
   <tr>
@@ -24,48 +34,38 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
     <td></td>
   </tr>
   <tr>
-    <td>90°</td>
+    <td>150° - 180°</td>
+    <td>Kurs z wiatrem (Running)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>180°</td>
     <td>Kurs na burtę (Beam Reach, Lewo)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>45° - 60°</td>
-    <td>Blisko kursu (Close Reach, Lewo)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>30° - 45°</td>
-    <td>Blisko kursu (Close Hauled, Lewo)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&lt; 30°</td>
-    <td>W martwym punkcie (In Irons)</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>&gt; 330°</td>
-    <td>W martwym punkcie (In Irons)</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>300° - 315°</td>
-    <td>Blisko kursu (Close Hauled, Prawo)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>270° - 300°</td>
-    <td>Blisko kursu (Close Reach, Prawo)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>225° - 270°</td>
-    <td>Kurs na wiatr (Broad Reach, Lewo)</td>
     <td></td>
   </tr>
   <tr>
     <td>190° - 225°</td>
+    <td>Kurs na wiatr (Broad Reach, Lewo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>225° - 270°</td>
     <td>Kurs na burtę (Beam Reach, Lewo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>270° - 300°</td>
+    <td>Blisko kursu (Close Reach, Lewo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>300° - 315°</td>
+    <td>Blisko kursu (Close Hauled, Lewo)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&lt; 30° lub &gt; 330°</td>
+    <td>W martwym punkcie (In Irons)</td>
     <td></td>
   </tr>
 </table>
