@@ -116,6 +116,67 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <th>Kąt Wiatru (°)</th>
+    <th>Pozycja</th>
+    <th>Prędkość (Nm/h)</th>
+  </tr>
+  <tr>
+    <td>&lt; 30° lub &gt; 330°</td>
+    <td>W martwym punkcie (In Irons)</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>30° - 45°</td>
+    <td>Blisko kursu (Close Hauled, Lewo)</td>
+    <td>Zmienna</td>
+  </tr>
+  <tr>
+    <td>45° - 60°</td>
+    <td>Blisko kursu (Close Reach, Lewo)</td>
+    <td>Zmienna</td>
+  </tr>
+  <tr>
+    <td>90°</td>
+    <td>Kurs na burtę (Beam Reach, Lewo)</td>
+    <td>Zmienna</td>
+  </tr>
+  <tr>
+    <td>100° - 135°</td>
+    <td>Kurs na wiatr (Broad Reach, Prawo)</td>
+    <td>Zmienna</td>
+  </tr>
+  <tr>
+    <td>150° - 180°</td>
+    <td>Kurs z wiatrem (Running)</td>
+    <td>Zmienna</td>
+  </tr>
+  <tr>
+    <td>180°</td>
+    <td>Kurs na burtę (Beam Reach, Prawo)</td>
+    <td>Zmienna</td>
+  </tr>
+  <tr>
+    <td>190° - 225°</td>
+    <td>Kurs na wiatr (Broad Reach, Lewo)</td>
+    <td>Zmienna</td>
+  </tr>
+  <tr>
+    <td>225° - 270°</td>
+    <td>Blisko kursu (Close Reach, Prawo)</td>
+    <td>Zmienna</td>
+  </tr>
+  <tr>
+    <td>270° - 300°</td>
+    <td>Blisko kursu (Close Hauled, Prawo)</td>
+    <td>Zmienna</td>
+  </tr>
+  <tr>
+    <td>&gt; 330°</td>
+    <td>W martwym punkcie (In Irons)</td>
+    <td>0</td>
+  </tr>
+</table>
 
 
