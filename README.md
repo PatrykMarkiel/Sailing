@@ -4,9 +4,12 @@ A sailing boat is floating among the seas and it has to avoid object like boulde
 ## Wind mechanic && Boat positions
 <table>
   <tr>
-    <th>Kąt Wiatru (°)</th>
-    <th>Pozycja</th>
-    <th>Prędkość (Nm/h)</th>
+    <th>Angle of blowing (°)</th>
+    <th>position</th>
+    <th>Speed (blowing strength 1)</th>
+    <th>Speed (blowing strength 2)</th>
+    <th>Speed (blowing strength 3)</th>
+    <th>Speed (blowing strength 4)</th>
   </tr>
   <tr>
     <td>&lt; 30° or &gt; 330°</td>
