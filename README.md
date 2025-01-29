@@ -44,7 +44,113 @@ There are three levels of wind strength, affecting how much the wind influences 
 Wind Direction and Boat Speed
 
 The wind direction determines how much the boat's speed is affected. The boat's sail position relative to the wind direction categorizes its effectiveness into sailing positions:
-
+<table border="1">
+  <tr>
+    <th>Angle of blowing (°)</th>
+    <th>Position</th>
+    <th>Speed (blowing strength 1)</th>
+    <th>Speed (blowing strength 2)</th>
+    <th>Speed (blowing strength 3)</th>
+  </tr>
+  <tr>
+    <td>&lt; 30° or &gt; 330°</td>
+    <td>In Irons</td>
+    <td>0%</td>
+    <td>0%</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>30° - 45°</td>
+    <td>Close Hauled (Right)</td>
+    <td>50%</td>
+    <td>60%</td>
+    <td>70%</td>
+  </tr>
+  <tr>
+    <td>45° - 60°</td>
+    <td>Close Reach (Right)</td>
+    <td>75%</td>
+    <td>85%</td>
+    <td>95%</td>
+  </tr>
+  <tr>
+    <td>60° - 90°</td>
+    <td>Between Close Reach & Beam Reach</td>
+    <td>87.5%</td>
+    <td>92.5%</td>
+    <td>97.5%</td>
+  </tr>
+  <tr>
+    <td>90°</td>
+    <td>Beam Reach (Right)</td>
+    <td>100%</td>
+    <td>100%</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>100° - 135°</td>
+    <td>Broad Reach (Right)</td>
+    <td>90%</td>
+    <td>95%</td>
+    <td>97.5%</td>
+  </tr>
+  <tr>
+    <td>135° - 150°</td>
+    <td>Between Broad Reach & Running</td>
+    <td>85%</td>
+    <td>87.5%</td>
+    <td>88.75%</td>
+  </tr>
+  <tr>
+    <td>150° - 180°</td>
+    <td>Running</td>
+    <td>80%</td>
+    <td>85%</td>
+    <td>90%</td>
+  </tr>
+  <tr>
+    <td>180°</td>
+    <td>Beam Reach (Left)</td>
+    <td>100%</td>
+    <td>100%</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>190° - 225°</td>
+    <td>Broad Reach (Left)</td>
+    <td>90%</td>
+    <td>95%</td>
+    <td>97.5%</td>
+  </tr>
+  <tr>
+    <td>225° - 270°</td>
+    <td>Beam Reach (Left)</td>
+    <td>100%</td>
+    <td>100%</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>270° - 300°</td>
+    <td>Close Reach (Left)</td>
+    <td>75%</td>
+    <td>85%</td>
+    <td>95%</td>
+  </tr>
+  <tr>
+    <td>300° - 315°</td>
+    <td>Close Hauled (Left)</td>
+    <td>50%</td>
+    <td>60%</td>
+    <td>70%</td>
+  </tr>
+  <tr>
+    <td>315° - 330°</td>
+    <td>Between Close Hauled & In Irons</td>
+    <td>25%</td>
+    <td>30%</td>
+    <td>35%</td>
+  </tr>
+</table>
 Additional Wind Rule
 
 If the wind is blowing between the angles of the sail setting, speed is reduced to half of the maximum possible speed.
