@@ -48,7 +48,7 @@ The wind direction determines how much the boat's speed is affected. The boat's 
   <tr>
     <th>Angle of blowing (°)</th>
     <th>Position</th>
-    <th>Speed (blowing strength 1)</th>
+    <th>Speed %</th>
   </tr>
   <tr>
     <td>&lt; 30° or &gt; 330°</td>
