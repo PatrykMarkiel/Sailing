@@ -30,7 +30,7 @@ The player must strategically adjust their angle to maximize speed and maneuver 
 Sailing boat is accelerates til it reaches n value or max speed(it depends of sail position)
 
 If the wind is blowing between the angles of the sail setting, speed is reduced to half of the maximum possible speed.
----
+
 ## Wind Direction and Boat Speed
 
 The wind direction determines how much the boat's speed is affected. The boat's sail position relative to the wind direction categorizes its effectiveness into sailing positions:
