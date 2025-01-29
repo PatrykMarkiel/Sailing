@@ -111,6 +111,7 @@ The wind direction determines how much the boat's speed is affected. The boat's 
     <td>25%</td>
   </tr>
 </table>
+![1](https://github.com/user-attachments/assets/8d8267da-890c-4ec1-b9d2-3961410f9b54)
 
 
 
