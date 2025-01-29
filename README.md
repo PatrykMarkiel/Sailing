@@ -111,7 +111,8 @@ The wind direction determines how much the boat's speed is affected. The boat's 
     <td>25%</td>
   </tr>
 </table>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fasa.com%2Fnews%2F2022%2F07%2F26%2Fsailing-upwind%2F&psig=AOvVaw1tSeVdq8lNGwPgfFS3w1-V&ust=1738221696006000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCV8MeymosDFQAAAAAdAAAAABAE"></img>
+![News-2019-02-11-Points-of-Sail-961x1024](https://github.com/user-attachments/assets/a30a2650-6c82-4b59-8f69-a8841a2eef3f)
+
 
 
 
