@@ -112,6 +112,57 @@ The wind direction determines how much the boat's speed is affected. The boat's 
   </tr>
 </table>
 
+Use Cases for Sailing Challenge
+Use Case: Starting the Game
+Description: The player launches the game and starts the sailing challenge.
+Preconditions: The game is running, and the player is on the main menu screen.
+Steps:
+The player presses the “Start” button.
+The game loads the initial sailing environment.
+The player sees the boat on the water, with wind direction and strength displayed.
+Expected Outcome: The game starts, and the player can begin controlling the boat.
+Use Case: Controlling the Boat
+Description: The player controls the boat’s movement by adjusting the sail angle and steering to align with the wind direction.
+Preconditions: The game has started, and the player is actively controlling the boat.
+Steps:
+The player uses the controls to steer the boat.
+The player adjusts the sail angle to optimize speed based on wind direction.
+The player maneuvers the boat to avoid obstacles and navigate through the open sea.
+Expected Outcome: The boat responds to the player's input, and its speed is affected by wind conditions and sail angle.
+Use Case: Adjusting the Sail
+Description: The player adjusts the sail to match the wind direction, optimizing the boat’s speed.
+Preconditions: The boat is in motion, and the wind is blowing from a certain direction.
+Steps:
+The player observes the wind direction and the current sail position.
+The player adjusts the sail angle (left or right) to get the best sailing position relative to the wind.
+The boat’s speed changes based on the angle between the sail and wind direction.
+Expected Outcome: The boat’s speed increases or decreases based on the correct adjustment of the sail.
+Use Case: Avoiding Obstacles
+Description: The player avoids obstacles (rocks, other ships, reefs) while navigating through the water.
+Preconditions: The boat is in motion, and obstacles are present in the environment.
+Steps:
+The player observes the surroundings and detects obstacles.
+The player steers the boat to avoid collisions.
+The player may need to adjust the sail to gain speed or maneuver more effectively around obstacles.
+Expected Outcome: The boat successfully avoids obstacles, or a collision occurs if the player fails to navigate properly.
+Use Case: Wind Changes
+Description: The wind direction and strength change over time, affecting the boat’s speed and direction.
+Preconditions: The game is ongoing, and the boat is already in motion.
+Steps:
+The wind direction shifts, and its strength may increase or decrease.
+The player notices the change in wind and adjusts the sail accordingly.
+The player adapts their movement strategy to maintain optimal speed.
+Expected Outcome: The boat’s speed and direction adjust dynamically based on the wind’s changes. The player must react to these changes to maintain control.
+Use Case: Game Over
+Description: The game ends when the boat collides with an obstacle or reaches a goal (if applicable).
+Preconditions: The boat is in motion, and the player is actively controlling it.
+Steps:
+The boat collides with an obstacle or completes the goal (if applicable).
+A game over screen or summary appears.
+The player is prompted to either restart the game or quit.
+Expected Outcome: The game ends, and the player can choose to restart or exit.
+
+
 
 
 
